@@ -40,6 +40,12 @@ Also, there was a filtering of cities based on ideal weather conditions that wer
 
 After selecting the weather conditions, using API of <a href="https://developers.google.com/places/web-service/search">Google places</a> nearby hotels from coordinates of cities with ideal weather conditions were extracted and plotted in the heatmap mentioned before.
 
+
+Here is the outcome of suggested hotels which are pointed at each marker with the heatmap included
+
+![](VacationPy/VacationsMap.png)
+
+
 Special considerations
 <ul>
   <li>The data extracted is displayed in metric system as in WeatherPy</li>
