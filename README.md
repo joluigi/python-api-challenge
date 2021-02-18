@@ -38,7 +38,7 @@ Also, there was a filtering of cities based on ideal weather conditions that wer
   <li>Cloudiness between 0% and 40%</li>
 </ul>
 
-After selecting the weather conditions, using API of <a href="https://developers.google.com/places/web-service/search">Google places</a> nearby hotels from coordinates of cities with ideal weather conditions were extracted with these results:
+After selecting the weather conditions, using the API of <a href="https://developers.google.com/places/web-service/search">Google places</a> the data was filtered to nearby hotels from coordinates of cities with ideal weather conditions:
 
 
 |Ind| Hotel	                                      |City           |	Country	| Latitude  |	Longitude |
