@@ -38,10 +38,21 @@ Also, there was a filtering of cities based on ideal weather conditions that wer
   <li>Cloudiness between 0% and 40%</li>
 </ul>
 
-After selecting the weather conditions, using API of <a href="https://developers.google.com/places/web-service/search">Google places</a> nearby hotels from coordinates of cities with ideal weather conditions were extracted and plotted in the heatmap mentioned before.
+After selecting the weather conditions, using API of <a href="https://developers.google.com/places/web-service/search">Google places</a> nearby hotels from coordinates of cities with ideal weather conditions were extracted with these results:
 
 
-Here is the outcome of suggested hotels which are pointed at each marker with the heatmap included
+|Ind| Hotel	                                      |City           |	Country	| Latitude  |	Longitude |
+|---| ------------------------------------------- |---------------| --------| ----------|-----------|
+|0	|TUCABACA HOTEL Boutique                      |	santa cruz    |	BO	    |-17.774776 |-63.170312 |
+|1	|Hanan Guest House	                          |mandera        |	KE      |	3.935299	|41.855653  |
+|2	|Hostal Mandala                               |	pisco	        | PE      |-13.709870	|-76.206460 |
+|3	|Welk Resorts Cabo San Lucas - Sirena del Mar |	cabo san lucas|	MX	    |22.899317  |-109.863843|
+|4	|Hotel California Petatlán                    |	petatlan	    | MX	    |17.537654	|-101.268874|
+|5	|Hostal Condell                               |	buin	        | CL      |-33.731874 |-70.737427 |
+|6	|Buenaventura                                 |	portobelo     |	PA      |	9.532285  |-79.668649 |
+
+
+Then, these suggested hotels where plotted at the heatmpa with markers as shown below
 
 ![](VacationPy/VacationsMap.png)
 
