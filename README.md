@@ -52,7 +52,7 @@ After selecting the weather conditions, using the API of <a href="https://develo
 |6	|Buenaventura                                 |	portobelo     |	PA      |	9.532285  |-79.668649 |
 
 
-Then, these suggested hotels where plotted at the heatmpa with markers as shown below
+Then, these suggested hotels where plotted at the heatmap with markers as shown below
 
 ![](VacationPy/VacationsMap.png)
 
